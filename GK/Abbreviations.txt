@@ -1,0 +1,25 @@
+PSLV		: Polar Satellite Launch Vehicle
+IRNSS		: Indian Regional Navigation Satellite System
+ISRO		: Indian Space Research Organization
+NSA			: National Security Advisor
+ACB			: Anti-Corruption Bureau
+PPP			: Public Private Partnership
+PWD			: Public Works Department
+CAG			: Comptroller and Auditor General
+PAC			: Public Accounts Committee
+CBDT		: Central Board of Direct taxes
+BSF			: Border Security Force
+SSB			: Sashastra Seema Bal
+SAI			: Sports Authority of India
+MGNREGA		: Mahatma Gandhi National Rural Employment Guarantee Act
+PMJDY		: Pradhan Mantri Jan Dhan Yojana
+IARI		: Indian Agriculture Research Institute
+PTI			: Press Trust of India
+MTP			: Medical Termination of Pregnancy
+IMA			: Indian Medical Association
+PCI			: Press Council of India
+NSTL		: Naval Science and Technology Laboratory(Vishakhapatnam)
+DGFT		: Director General of Foreign Trade
+IPC			: Indian Penal Code
+NMCG		: National Mission on Clean Ganga
+EAS			: East Asian Summit
