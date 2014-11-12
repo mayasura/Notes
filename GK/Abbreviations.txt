@@ -23,3 +23,4 @@ DGFT		: Director General of Foreign Trade
 IPC			: Indian Penal Code
 NMCG		: National Mission on Clean Ganga
 EAS			: East Asian Summit
+ASEAN		: Association of Southeast Asian Nations
