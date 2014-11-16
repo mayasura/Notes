@@ -1,11 +1,11 @@
 Epidemic: a rapid spread or increase in the occurrence of something
-	e.g. An epidemic of riots.
+e.g. An epidemic of riots.
 
 Deter: to prevent; check; arrest:
-	e.g. timber treated with creosote to deter rot.
+e.g. timber treated with creosote to deter rot.
 
 Megapolis: a very large, heavily populated city or urban complex.
-	e.g. Delhi is now a megapolis.
+e.g. Delhi is now a megapolis.
 
 Litigate: to make the subject of a lawsuit; contest at law.
 
@@ -13,7 +13,7 @@ Fray: a fight, battle
 
 Prop up: support; to prevent from failing.
 e.g. to prop an old fence; to prop up an unpopular government.
-	
+
 Epidemic: a rapid spread or increase in the occurrence of something
 e.g. An epidemic of riots.
 
@@ -74,3 +74,30 @@ Enact: to establish by law
 
 Mull: to think about carefully; consider (often followed by over)
 e.g. To mull over an idea.
+
+Perforate: make a hole into or between, as for ease of separation
+Synonyms: punch, penetrate, pierce, puncture, cut
+e.g. Perforate the sheets of paper
+
+Depression: a sunken or depressed geological formation
+
+Hollow: a depression hollowed out of solid matter
+
+Elongated: having notably more length than width; being long and slender
+
+Bulge: swell or protrude outwards
+
+Reckon: calculate, figure
+e.g. Local time can be reckoned by the shadow cast by the Sun.
+
+Stealth: secret
+e.g. Process cannot be undertaken in stealth.
+
+Heir: a person who inherits or has a right of inheritance in the property of another following the latter's death.
+
+Antipathy: opposition in feeling
+
+Gag: to stop up the mouth of (a person) by putting something in it, thus preventing speech, shouts, etc.
+
+Repatriate: to return to one's own country.
+e.g. To repatriate after 20 years abroad.
