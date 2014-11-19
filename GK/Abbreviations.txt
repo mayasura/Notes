@@ -26,3 +26,7 @@ EAS			: East Asian Summit
 ASEAN		: Association of Southeast Asian Nations
 CIVA		: Comet Infrared and Visible Analyser (Camera)
 BRICS		: Brazil, Russia, China, India, South Africa
+DRDO		: Defence Research and Development Organisation
+BCCI		: Board of Control for Cricket in India
+ICC			: International Cricket Council
+KVP			: Kisan Vikas Patra
