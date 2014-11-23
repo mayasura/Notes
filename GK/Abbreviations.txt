@@ -30,3 +30,5 @@ DRDO		: Defence Research and Development Organisation
 BCCI		: Board of Control for Cricket in India
 ICC			: International Cricket Council
 KVP			: Kisan Vikas Patra
+DAC			: Defence Acquisition Council
+INS			: Indian Naval Service
