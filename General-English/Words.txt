@@ -135,3 +135,6 @@ Foul up: failure of a mechanical part to operate correctly.
 e.g. US-made car engine foul up frequently.
 
 Gullible: easily deceived or cheated.
+
+Manifold: something having many different parts or features.
+
