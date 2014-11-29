@@ -35,3 +35,6 @@ INS			: Indian Naval Service
 SAARC		: South Asian Association for Cooperation
 FSLRC		: Financial Sector Legislative Reforms Committee
 PCI			: Press Council of India
+ESA			: European Space Agency
+NIA			: National Investigation Agency
+OPEC		: Organization of Petroleum Exporting Country 
