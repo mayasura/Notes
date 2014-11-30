@@ -31,7 +31,7 @@ BCCI		: Board of Control for Cricket in India
 ICC			: International Cricket Council
 KVP			: Kisan Vikas Patra
 DAC			: Defence Acquisition Council
-INS			: Indian Naval Service
+INS			: Indian Naval Ship
 SAARC		: South Asian Association for Cooperation
 FSLRC		: Financial Sector Legislative Reforms Committee
 PCI			: Press Council of India
