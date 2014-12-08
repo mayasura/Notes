@@ -1,35 +1,9 @@
-0) Our national anthem composed originally in Bangla by Rabindranath Tagore, was adopted in its Hindi version by the Constituent Assembly as the national Anthem of India on 24 January 1950.
-
-1) Medical Termination of Pregnancy (MTP)
+## Medical Termination of Pregnancy (MTP) ##
 - The Medical Termination of Pregnancy (MTP) Act in India came into existence in 1971. It was amended in 2003 to facilitate better implementation and increase access for women especially in the private health sector. However, even four decades after the Act came into effect, unsafe abortions are a reality.
 - This act allows non-allopathic medical practitioners like ayurveda and homoeopathy specialists and paramedics like nurses and midwives to perform MTP's.
 
 
-2) IRNSS-1C
-- It's a 27th consecutive success mission of the Indian Space Research Organization’s Polar Satellite Launch Vehicle launched the IRNSS -1C, the third in a series of seven Indian Regional Navigation Satellite Systems from Sriharikota.
-- The launch of the 1425 kg IRNSS-1C on board the PSLV-C26 was carried out at 1.32 am from the Satish Dhawan Space Centre at Sriharikota, ISRO said in an official statement.
-- “After a flight of about 20 minutes 18 seconds, IRNSS-1C Satellite, weighing 1425 kg, was injected to an elliptical orbit of 282.56 km X 20,670 km, which is very close to the intended orbit,’’ ISRO said.
-- The first two satellites in the IRNSS series 1A and 1B were launched on the PSLV on July 02, 2013 and April 04, 2014 respectively. These satellites are functioning satisfactorily, ISRO said.
-- The IRNSS is an independent regional navigation satellite system designed by ISRO to provide GPS type positioning  information in the Indian region and 1500 km around the Indian mainland.“ IRNSS would provide two types of services, namely, Standard Positioning Services (SPS) – provided to all users – and Restricted Services (RS), provided to authorised users,’’ ISRO said.
-- “A number of ground stations responsible for the generation and transmission of navigation parameters, satellite control, satellite ranging and monitoring, etc., have been established in as many as 15 locations across the country,’’ ISRO said.
-- The next satellite in the series the IRNSS-1D is scheduled to be launched by PSLV by the end of the year. The entire IRNSS constellation of seven satellites is proposed to be put in place by 2015.
-
-
-3) Inbox
-- Google launched new email service called 'inbox' that will better organise emails and display information such as appointments, flight bookings and package deliveries in more user-friendly way.
-- Inbox displays real-time updates to emails - for example, showing the delivery status of items bought online. It also shows reminders in a more accessible way that allows users to more easily keep track of chores and appointments.
-- It also allows users to view purchases and bank account statements grouped together.
-
-
-4) World Chess championship in Sochi(Russia)
-- The match will be played between Magnus Carlsen and Viswanathan Anand.
-- Anand to open with white
-- The match, to be played over 12 games, will have the classical time control with 120 minutes for the first 40 moves, 60 minutes for the next 20 and then fifteen minutes each with a 30 second increment from move 61 onwards. 
-- In case of a tied result after 12-games, four rapid games will be played to determine the winner and if the scores are still tied, then match will be fought over in a series of blitz game till a clear winner emerges.
-- The winner will get 60 per cent from the total prize fund of one million euros(around Rs 7.6 crores). 
-
-
-5) Dengue Vaccine
+## Dengue Vaccine ##
 - Dengue fever is transmitted by the bite of an "Aedes aegypti" mosquito infected with a dengue virus.
 - France-based drugmaker "Sanofi Pasteur" has announced the world's first dengue vaccine could come in the second half of 2015.
 - Overall efficacy against any symptomatic dengue disease was 60.8 percent in children and adolescents between ages 9 and 16 who received three doses of the vaccine. Analysis had shown a 95.5 per cent protection against severe dengue and an 80.3 percent reduction in the risk of hospitalization during the study.
@@ -38,7 +12,7 @@
 - How big a threat is dengue to India ? According to WHO, dengue threatens over 2.5 billion people worldwide, including an estimated 500,000 who are hospitalized every year from the disease. Between 2 and 3 of every 100 people who contract dengue end up dying from it. According to large study published in 2013, in 2010, an estimated third of all dengue infections were in India, and the situation has worsened since. According to Health Ministry data, the number of dengue cases jumped 500 percent from 12,561 in 2008 to 75,808 in 2013, while the number of deaths from the disease more than doubled from 80 in 2008 to 193 in 2013. Western and southern India, Delhi and West Bengal are the dengue hotspots in India. In 2013 most cases were reported in Kerala(7,938), followed by Orris(7,132) and Karnataka(6,408). The most deaths, however, occured in Maharashtra(48), followed by Kerala(29) and Punjab(25). Both the disease and deaths are, however, suspected to be under-reported, and some experts feel the incidence of dengue in India could be up to 300 times higher. 
 
 
-6) Press Council of India awards
+## Press Council of India awards ##
 - National Photo Editor of The Indian Express Neeraj Priyadarshi has been awarded the Press Council of India’s ‘National Awards for Excellence in Journalism’ in the Single News Picture category. Express photographer Ravi Kanojia has been chosen for certificate of creative excellence in the Photo Feature category.
 Eleven journalists and four photojournalists in all have been chosen by the PCI for these awards. Corenlius Minz of Khabar Mantra, Jhakhand, and R Samban of Deshabhimani, Malappuram, have been chosen for the award in the Rural Journalism category. M Shajil Kumar of Malayala Manorama and Uttam Sengupta of Outlook will receive certificates for creative excellence in the same category.
 Kumar Sambhav Shrivastava of Down to Earth will get the award for Developmental Reporting while Rahi Gaikwad of The Hindu and Neha Bhatt of Outlook will receive certificates for creative excellence in the same category. Priyadarshani Sen of Outlook has been awarded in the Stree Shakti category while Davis Paynadath of Deepika Daily, Kerala, will get the certificate of creative excellence in the same category.
@@ -46,117 +20,51 @@ In photo feature category, the award will be received by Piyal Adhikary of Europ
 - In Urdu Journalism category, the award will be shared by Wasimul Haque of The Daily Akhbare-E-Mashriq, Delhi, and Muhammad Atif of Sahafat, Delhi.
 
 
-7) A-72 Vessel sunk off the Vishakhaptnam coast
+## A-72 Vessel sunk off the Vishakhaptnam coast ##
 - It wase 23-metre long - one of the three Astravahini class acquired in 1983. 
 
 
-8) Canal Solar Power Project
- - The Canal Solar Power Project is a project launched in Gujarat, to use 19,000 Kilometre long network of Narmada canals across the state for setting up solar panels to generate electricity. The 10 Megawatt project is situated on the Narmada branch canal near Chandrasan village of Kadi taluka in Mehsana district. The pilot project will generate 1.6 million units of clean energy per annum and also prevent evaporation of 9 million litres of water annually from the canal. The project virtually eliminates the requirement to acquire vast tracts of land and limits evaporation of water from the 750 meter long canal, tackling two challenges simultaneously by providing energy and water security.
- - It is 3.5 kilometre-long country's biggest 10-MW canal-top solar power project. A total 483 solar tablets of 6.5X2.3 metres have been laid along the canal top which promises clean and green energy.
-	
-
-9) Basmati rice variety
- - Pusa-1509 a basmati rice variety. Pusa-1509's advantage is its yield. The average 25 quintals paddy per acre from the variety are away above 10 quintals from tradition basmati varities such as Taraori and Deharaduni. It surpasses even the 20 quintals for Pusa-1121. 
- - Both Pusa-1121 and Pusa-1509 have lower plang heights than the 160 cm levels for traditional basmatis, making them more responsible to fertiliser applications. The Pusa-1509 plant is only 80 cm tall, below even the 120 cm for Pusa-1121.
- - But the yield is not sole attraction. Pusa-1509 matures within 120 days while Pusa-1121 matures within 145 days.
+## Basmati rice variety ##
+- Pusa-1509 a basmati rice variety. Pusa-1509's advantage is its yield. The average 25 quintals paddy per acre from the variety are away above 10 quintals from tradition basmati varities such as Taraori and Deharaduni. It surpasses even the 20 quintals for Pusa-1121. 
+- Both Pusa-1121 and Pusa-1509 have lower plang heights than the 160 cm levels for traditional basmatis, making them more responsible to fertiliser applications. The Pusa-1509 plant is only 80 cm tall, below even the 120 cm for Pusa-1121.
+- But the yield is not sole attraction. Pusa-1509 matures within 120 days while Pusa-1121 matures within 145 days.
 
 
-10) Problems associated with megalopolis (very big cities)
- - Polluted rivers hence depends entirely on water released by neighbouring states - resulting in shortages that reach alarming proportion each summer. Its water table remains among the most deficient in the country, even though it does not have to meet irrigation demands.
- - A sewage system built 80 years ago is now on its last legs, even as open defecation along the river continues.
- - Road carries the highest number of vehicle.
- - Concepts like segregation and recycling of waste, solar photo-voltaics on rooftops and the use of technology-based solutions are not part of vocabulary.
+## Problems associated with megalopolis (very big cities) ##
+- Polluted rivers hence depends entirely on water released by neighbouring states - resulting in shortages that reach alarming proportion each summer. Its water table remains among the most deficient in the country, even though it does not have to meet irrigation demands.
+- A sewage system built 80 years ago is now on its last legs, even as open defecation along the river continues.
+- Road carries the highest number of vehicle.
+- Concepts like segregation and recycling of waste, solar photo-voltaics on rooftops and the use of technology-based solutions are not part of vocabulary.
 
 
-11) Vehicle import policy
+## Vehicle import policy ##
 - The permission has been sought from Director General of Foreign Trade(DGFT) because, as per the import policy, a second hand or used vehicle can be imported only against authorisation.
 - The import such of vehicle is subject to the condition that it "shall not be older than three years from the date of manufacture; have a right hand steering, and controls (applicable on vehicles other than tow and three wheelers); have a speedometer indicating the speed in kilometres".
 - Currently, import of vehicles by foreign diplomats and other belongings to this category exempt from payment of custom duty. However, private citizens and other individuals have to pay a duty of over 100 per cent for importing used vehicle. 
 
 
-12) Amendments in Indian Penal Code
-- Section 498A: Women to be fined RS 15,000 if allegations of harassment for dowry are false. Also proposing a change under which the husband wife will also get an option to arrive at a compromise anytime during the course of trial with the permission of the court. The key change include: raising the fine from Rs 1,000 to 15,000.
-- Section 323: Another sub-section to be added, mentioning torture in custody, where policemen found guilty could jail of up to three years. There are many cases when the accused have been tortured by policemen and there is no accountability. Sometimes, this even leads to death in police custody. Another subsection would be added to make this offence punishable by up to three years.
-- Section 304A: Maximum punishment of 10 years, from existing two, for rash and negligent driving resulting in death.
-- Section 309: To decriminalise "attempt to suicide", this section will be dropped completely. The particular section contains a provision that prescribed one year jail as punishment to for those attempting to commit suicide.
-
-
-13) Gujarat compulsory vote law
-- Several legal experts questioned the constitutionality and workability of the law that was blocked by former Gujarat governor Kamla Beniwal for several years before it was cleared by Governor O P Kohli recently and was notified in the state gazette on November 5.
-- Rules under the amended law are, however, yet to be framed, and the penalty for not voting is still to be notified.
-- The act has a procedure to identify a "defaulter voter", the election officer may declare the voter to be the defaulter voter who failed to vote after giving him a notice in the form prescribed by rules. The voter will have a month to reply, giving valid and sufficient reasons for not voting, along with supporting documents like a medical certificate or a copy of passport. If the reply is late, or the reason not satisfactory, the election office will declare the voter a "defaulter".
-- Valid grounds for not voting include physical incapability due to illness or other bodily infirmity; being absent from Gujarat or India on the date of election; other grounds prescribed by the state government in consultation with the State Election Commission.
-- In enacting the law, government has amended three older Acts. Compulsory voting in municipal corporation, municipality and panchayat polls has been included under 'Obligation to Vote', while inserting sub-sections to relevant sections of the three earlier Acts.
-- However, the law will come into effect only after the state government has issued separate notifications related to provisions such as punishment for the voter who defaults.
-- An indications of likely punishment was given in 2010 by an official who helped draft the bill: "we are mulling punitive action withdrawing BPL cards, and discontinuing government subsidy on kerosene and cooking gas.
-- Former governor Kamal Beniwal has said forcing a voter was "against the principles of individual libery", and violated freedoms guaranteed under Article 21.
-
-** Compulsory vote law elsewhere **
-- Australia: Compulsory voting above age 18 since 1924. Elections mostly on Saturdays; those who do not vote face a $ 20 fine.
-- Argentina: Everyone between 18 and 70 must vote. Those who are ill must produce a medical certificate. Those who are more than 500 km away from their voting station must produce a certificate from the nearest police station.
-- Bolivia: Failure to show a 'proof-of-voting' card within 3 months of an election may affect salaries.
-- Belgium: Compulsory voting since 1892 for men, 1949 for women. Those who are 18 and don't vote may be fined. Not voting in four elections may result in loss of voting right for 10 years. Non-voters find it tough to get employment in the country's public sector.
-- Singapore: Voting a compulsory responsibility of adult Singaporeans. Failure leads to disenfranchisement.
-- Brazil: Everyone between the ages of 18 and 70 must vote. Those who don't do so must justify, and pay a fine. Non-voters may be barred from applying for passports or sitting for professional exams.
-
-
-14) US and China visa deal
+## US and China visa deal
 - CHINA and the United States have agreed to significantly extend the terms of short-term visas. A deal would improve trade and business ties between the worlds' two largest economies.
 - Both countries would extend the terms of multiple entry short-term tourist and business visas to 10 years from one year. Student visas would be extended to five years from one year. 
   
-15) Sterilisation Deaths in Chhattisgarh
+
+## Sterilisation Deaths in Chhattisgarh ##
 Laparoscopic Tubectomy: Instead of surgically opening the abdomen, a laparoscope is introduced through a keyhole insertion. Both fallopian tubes are located, and rubber rings callaed silastic rings are applied around the tubes to occlude them, so that sperm can no longer pass through.
 
-16) ASEAN
-- Association of Southeast Asian Nations. It comprises Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Vietnam.
 
-
-17) A Rocky Landing
-- European Space Agency's lander, Philae, was successfully launched from the Rosetta spacecraft and was fast dropping towards the comet 67P/Churymov-Gerasimenko. The historic mission is the first time anyone has attempted to land a spacecraft on a comet.
-- For the next seven hours, Philae will descend 22 km, reaching its target on the "head" of the comet around 4pm GMT.
-- ROSETTA WHO: Launched in March 2004, Rosetta was reactivated after a record 957 days in hibernation. Composed of an orbiter and lander, Rosetta's objectives are to study comet 67P in unprecedented detail, using its 21 scientific instruments to study how the comet reacts to a close encounter within sun. The resulting data will help scientists learn more about the origin and evolution of our solar system and the role comets may have played in seeding Earth with water, and perhaps even life.
-- THE COMET 67P: Rosetta made history in August when it entered 67P's orbit. Surface temperature go down to minus 70 degrees and the terrain is uneven, making for a rough landing.
-- THE MISSION: The first phase will last tow-and-a-half days where Philae will be on primary battery power. In phase two, which will use solar power for approximately three months. Its goal is stick which the comet until it passes the sun in August 1025.
-- LANDING PHILAE: The landing site - previously known as "Site J" is named Agilkia. As it approaches the 67P, Philae will fire a set of harpoons and tether itself to the frozen surface.
-- THE FAMOUS SELFIES: The Comet Infrared and Visible Analyser (CIVA) on Philae is comprised of seven cameras that are capable of taking 360 degree photos of the comet's landscape once the spacecraft lands. On September 7, Rosetta took a selfie with CIVA camera from a distance of 50 km from the comet.
-- THE NUMBERS: 100 kg - weight of probe; 10 feet long - length of Rosetta; 2 wing-like solar panels; 6 billion km - distance travelled to reach comet; 10 years - time taken; $1.68 billion - cost of Rosetta mission; 75% - scientist's estimate of chance of a successful landing
-- The COMET itself is about 2.5 Miles (4 KM) long and orbits the sun every six-and-ad half years.
-   
-
-18) G-20 Summit: Leaders review progress of BRICS development bank.
+## G-20 Summit: Leaders review progress of BRICS development bank ##
 - At the informal meeting(Brisbane), the five leaders (BRICS) also took stock of the progress made in the establishment of the New Development Bank (NDB) and the Contingent Reserve Arrangement(CRA) that was agreed upon the sixth BRICS Summit in Fortaleza in Brazil in mid-July this year (2014)
 - The seventh BRICS summit is scheduled to be held in the Russia city of Ufa in the middle of next year.  
 
 
-19) Akash Missile
-Type			: Medium range surface-to-air anti-aircraft defence system.
-Designer		: Defence Research and Development Organisation (DRDO)
-Weight			: 720 kg (1,590 lb)
-Length			: 578 cm (228 in)
-Diameter		: 35 cm (14 in)
-Warhead			: High-explosive, pre-fragmented warhead
-Warhead weight	: 60 kg (130 lb)
-Strike range	: 25 kilometre
-
-‘Akash’ missile is a medium range surface-to-air anti-aircraft defence system with a strike range of 25 km and can carry a warhead of 60 kg. It has the capability to target aircraft up to 30 km away and is packed with a battery that can track and attack several targets simultaneously. With its capability to neutralise aerial targets like fighter jets, cruise missiles and air-to-surface missiles, defence experts compare ‘Akash’ to the similar weapons of many other advanced countries, the sources said.
-
-
-20) Adani's Australia deal sealed
+## Adani's Australia deal sealed ##
 - One of the largest credit facilities extended by and Indian bank for an overseas project ($1 - billion by SBI)
 - SBI will provide load of $1 billion (over RS 6,000) to Adani Mining, the Australian subsidiary of Adani Enterprises, for its min project in Queensland.
 - The Adani group, headed by Gautam Adani, and the SBI have signed a memorandum of understanding which provides for a credit facility of up to $1 billion, subject to the detailed assessment of the company's mine project at Carmichael, near Clermont in Western Queensland.
 - The Adani group proposed plan to build a $7 billion coal mine was cleared on Monday by Australian's Queensland state, which also announced a major investment in rail infrastructure to support Indian conglomerate's mega project.
 
 
-21) Kisan Vikas Patra(KVP)    
-- The KVP was originally launched from April 1, 1988 and over the years accounted for nearly 9 per cent to 29 per cent of the total collections received under all national savings scheme in the country.
-- Providing a fresh investment option from small investors, finance minister Arun Jaitley is set to re-launch the KVP. A hugely popular small saving product of the 1980s and 1990s, the KVP has been re-tailored and will be denomination of RS 1,000, 5,000, 10,000 and 50,000 and promises to double the investment in 100 months. There will be no upper limit on investments in KVPs that can issued in single or joint names and can be transferred from one person to other multiple times.
-- The KVP will have a maturity period of eight years and four months but also offers flexible liquidity system under which investors can encash their certificates after he lock-in period of two years and six months or any time after that in any block of six months on predetermined maturity value.
-- While initially KVPs will be sold only through post offices, it will later be available at designated branches of nationalised banks. They can also be transferred from on post office to another and can be pledge as a security against loans.
-- Reintroduction of KVP is a welcome step not only in the direction of providing safe and secure investment avenues to the small investors but will also help in augmenting the savings rate in the country.
-- It is revamped in the Budget to encourage people, who may have banked or unbanked savings to invest in formal saving products.    
-
-22) Chief guests at Republican Day
+## Chief guests at Republican Day ##
 2004: Luiz Inacio Lula Da Silva (Brazil President)
 2005: Jimge Singye Wangchuck (Bhutan King)
 2006: Abdullah Bin Abdulaziz Al-Saud (Saudi Arabia King)
@@ -170,24 +78,14 @@ Strike range	: 25 kilometre
 2014: Shinzo Abe (Japan PM)
 2015: Barack Obama (USA President)
 
-23) Purchase of 814 artillery guns(Bofors)
+
+## Purchase of 814 artillery guns(Bofors) ##
 - Defence Acquisition Council cleared a proposal to procure 814 mounted-gun system for the artillery arm. The guns will be bought for RS 15,750 crore under 'buy and make-in-india' policy.
 - The first 100 guns will be bought off the shelf from an original equipment manufacturer and the remaining 714 will be manufactured in India.
 - The gun is 155 mm x 52 calibre mounted.
 
-24) Polly Umrigar Award (2014)
-- Bhuvneshwar Kumar is only the second bowler and the first pacer to win the Polly Umrigar Award. In the BCCI awards for the year 2007-2008, when Virender Sehwag won the Polly Umrigar Trophy, Bhuvneshwar won the award for U-19 player of the year. He is the only player to have won both these awards.
-- Previous receipts of award:
-	a) Sachin Tendulkar (2006-07 and 2009-10)
-	b) Virender Sehwag (2007-08)
-	c) Gautam Gambhir (2008-09)
-	d) Rahul Dravid (2010-11)
-	e) Virat Kohli (2011-12)
-	f) Ravichanran Ashwin (2012-13)
-	g) Bhuvneshwar Kumar (2013-2014)
 
-
-25) Loop holes from coastal security
+## Loop holes from coastal security ##
 Need to address following problems:
 - String of new police stations along the coast
 - Electronic Identification System
@@ -207,7 +105,7 @@ Mitigation
 - Global Positioning System sets fitted on most fishing boats could have been linked to control stations, just like taxi and truck fleets now have.
 
 
-26) Deepak Gupta: UPSC chairman
+## Deepak Gupta: UPSC chairman ##
 - As per convention, the UPSC chief is appointed from among the members of the Commission. It is for the first time that somebody from outside has been appointed as the UPSC chairperson.
 - Members of UPSC
 	1) Deepak Gupta (IAS Jharkhand cadre)
@@ -222,69 +120,20 @@ Mitigation
 	10) Chhatar Singh (IAS)
 
 
-27) Kisan Vikas Patra back as safe haven for savings
-a) What is KVP scheme:
-- Government has opened up a new avenue of investment for small investors.
-- Widely popular in the 1990s, the KVP is small saving product just like the National Savings Certificate(NSC) or the Public Provident Fund(PPF).
-- At the time, it was largely considered as an avenue for those who did not have access to other saving scheme but now it can be interesting option for small investors, especially when other option such as gold has lost much of its shine with the various curbs on its important.
-
-b) Salient features of scheme
-- The scheme is also a new option for investment when the government has increased the tax saving limit under Section 80 C of the Income Tax Act, 1961 by RS 50,000 to RS 1,50,000. There is however no upper limit on investment into the scheme.
-- The KVP, unlike what its name suggests is not just limited to the farmers but is open to all small investors.
-- It will available to investors in the denominations of RS 1,000, 5,000, 10,000 and 50,000 and can be purchased at present from post offices. It will also be available at designated bank branches at a later phase.
-- Investor will have to provide Know-Your-Customer(KYC) details on the lines of other small savings scheme, which is based on their risk profile or investment amount.
-- A Permanent Account Number of the investor will be required in case of transaction over RS 50,000.
-- According to norms issued, KVP would be in the form of a bearer bond. The certificated can be issued in single or joint names and can be transferred from one person to any other person, multiple times. The facility  of transfer from one post to another anywhere in India and of nomination will be available.
-- The KVP also has a flexible liquidity system, which makes it more liquid than the NSC or the PPF which have strict lock in periods. While the KVP has a maturity period of eight years and four months, investors can encash their certificates after the lock-in period of two years and six months or any time after that in any block of six months on pre-determined maturiy value.
-
-c) Pros
-- It would help poor gullible investors to channelise their savings towards trusted government scheme instead of some Ponzi scheme.
-- KVP can also be used as security and pledged for availing loans. 
-- In terms of tax benefits, investment up to RS 1,50,000 annually will qualify for tax rebate. The interest income at the time of withdrawal will however be taxable.
-
-d) Cons
-- The product shows slight difference with regard to its interest rate. Unlike other small saving schemes, where the interest rate is now revised annually from April 1 based on market rates, the KVP will have a fixed interest rate.
-- While it promises to double the investment amount in 100 months, its interest rate works out to about 8.5 per cent annually. This is indeed lower than the return offered by comparable small saving schemes such as PPF which has interest rate 8.7 per cent and the 10 year NSC that has an return of 8.8 per cent.
-
-e) Future of scheme
-- From 2015-16, the return on the KVP will seem more attractive compared to other small savings product.
-- Interest rates in the bond markets are going down. This will translate into lower returns even for small saving products next fiscal. This is when the KVP will shine through.
-
-
-28) As banks plan more charges, reduce your ATM dependence
-a) What is RBI directive:
-- As per the directive issued by the Reserve Bank of India(RBI), the number of free transactions(inclusive of financial and non-financial) at your ATMs of your own bank has been limited to 5 in a month (as against unlimited free transactions till now.)
-- In case of other bank's ATM, the number of free transactions have been brought down from five to three(in the six metros) while it has been kept at 5 for non-metros.
-- The six cities that RBI has identified as metros for the same are - Mumbai, New Delhi, Chennai, Kolkata, Bangalore, Hyderabad.
-- Banks are advised that at least five free transactions(inclusive of financial and non-financial) per month should be permitted to the savings bank account customer for use of own bank ATMs at all locations. The RBI directive has put a cap of Rs 20(plus service tax) as charge for every additional transaction.
-
-b) The Impact:
-- If you live in one of the metros and visit your ATM once in two days to withdraw cash then you will exceed your monthly free withdrawal limit (including own and other bank ATM) by 7 times which means that you will have to pay a penalty of over Rs 140 in the month which comes to Rs 1,680 in a year.
-
-c) Ways by which you can reduce your ATM visits:
-- Most monetary transactions and a lot of non-financial transactions such as cheque book request, credit card payments, checking your account balance or generating a mini statement can be done by logging into the net banking account and customer can avoid visiting ATMs for such purpose.
-- Some banks including HDFC Bank, ICICI Bank and Axis bank offer a missed call service for non-cash transactions where the customer can call a dedicated number from their registered mobile number following which an SMS is sent by the bank. Customer can use it for balance enquiries, checking mini-statements, cheque books and making account statement requests. All that a customer needs to do is to store the toll free numbers of his/her bank and call on it.
-- Customer can also go for more debit card transactions rather than cash transactions as it reduces the need for cash withdrawals.
-
-
-29) Financial Sector Legislative Reforms Committee (FSLRC)
-- The FSLRC was set up by the Congress-led UPA government on March 24, 2011, when Mukherjee was the Union Finance Minister.
-- The committee, chaired by Justice(Retd) B N Srikrishna, which submitted its report on March 22, 2013, suggested dramatic changes to the financial sector's regulatory architecture. These include putting in place an Indian Financial Code that will replace the bulk of existing laws and creating a single regulatory for pension, equity, insurance and commodities markets.
-- The RBI will continue with its present mandate of deciding the monetary policy and monitoring and supervising banks and payment system.
- 
-
-30) SAARC
+## SAARC ##
 - Modi spoke of giving three to five-year business visas and SAARC business traveller card, immediate medical visas for patients and attendants, and plans to launch the SAARC satellite by 2016.
 - India will support monitoring and surveillance of polio-free countries and provide vaccines where the disease might reappear. This move would benefit countries such as Pakistan where polio still exist. 
 - India's National Knowledge Network will be extended to the SAARC region, and that he would like the South Asian University to have partnership with at least one university in each SAARC country.
 - Today, good travels from one Punjab (India) to the other Punjab (Pak) through Delhi, Mumbai, Dubai and Karachi - making the journey eleven times longer and the cost four times more. Just think what we are doing to our consumers - and to our environment. We must shrink the distance between our producers and consumers and use the most direct routes of trade.
 
-31) 3 pacts in SAARC summit
+
+## 3 pacts in SAARC summit ##
 - These three pacts are Agreement for the regulation of Passenger and Cargo Vehicular Traffic amongst saarc Member States, saarc Regional Agreement on Railways and Saarc Framework Agreement for Energy Cooperation(Electricity). They have been approved by all members state, excluding Pakistan.
 - The electricity agreement aims to create a regional energy market aimed at enhancing cross-border electricity trade among the South Asian countries.
 - As per Motor vehicles agreement, cargo vehicles, passenger vehicles and personal vehicles can move across the region upon fulfilling the specified criteria and in accordance with the customs laws of the member states concerned.
 
-31) Crude oil price failing
+
+## Crude oil price failing ##
 Reasons
 =======
 - Demand slowdown in Europe and China, increased shale oil production in the US, cutting down demand from OPEC crude, and the move by some OPEC members such as Kuwait and Iraq to offer deeper discount.
@@ -295,35 +144,3 @@ What does crude price fall mean for india ?
 
 What will happen if oil falls below $70 per barrel ?
 - Oil at $70 per barrel may provide the much needed comfort to the Centre when it is looking to meet the fiscal deficit target of 4.1 per cent for 2014-15. Savings from lower crude oil prices will bring down the fuel subsidy bill for the government. Experts feel that it would also provide government to push for productive expenditure next year which may push growth in the economy. The Union Budget had allocated RS 63,427 crore as fuel subsidy in 2014-15(taking crude oil price at $110 per barrel and the rupee at 61 against the dollar for calculating the Budget Estimates). The trend in oil prices shows that any shortfall on revenue side at the end of the fiscal may be met through savings on oil subsidy front.
-
-32) INS Vikrant
-- Majestic-class aircraft carrier. Nicknamed 'The Mother' by aviators, Vikrant was built-in 1945 in Britain as part of WWII effort and commissioned into British Royal Navy as HMS (Her Majestry's SHihip) Hercules. Lort Mountbaten was instrumental in getting her to India. The deal was signed in 1957.
-- The ship joined the Indian Navy in 1961. It was India's first aircraft carrier, at a time when India had only frigates, destroyers and other surface ships. It initial air wing consisted of British Sea Hawk fighters and French Alize anti-submarine aircraft, later followed by Sea Kings and Chetaks.
-- The carrier is 704 ft in length and 128 ft in breadth. Height of the aerial mast(above mean waterline) is 116 ft. It's weight was 21,067 tonnes(gross); 15,350 tonnes(net). It had 13 decks and max speed was 28 knots.
-- The carrier was able to carry 21 aircrafts, including Sea Harriers(jet fighters), Sea Kings(search and rescue helicopters, anti-submarine warfare helicopters), Alizes(recce aircraft, used for anti-submarine and electronic welfare), Sea Hawks(jet fighters)
-- L70 guns (fixed gun positioned on the flight deck of an aircraft carrier).
-- 1,500 men and 200 officers as crew.
-
-33) KOSMOS Satellite
-- A Russian satellite called 'Kosmos 2499' has been whizzing around the Earth, sneaking up close to other satellites, sometimes paying them a visit. It is a satellite killer ? A Spy ? Or a nosy space vehicle ? Countries like the US are spooked, reviving fears of the Cold War.
- 
-a) The Kosmos
-- On May 23, 2014, Russia launched a rocket mission from its Plesetsk Cosmodrome as part of what seemed like just another mission to add new communication satellite to the Rodnik satellite constellation. But while previous Rodnik launches carried three satellites, this one had fourth - Kosmos 2499. This has renewed fears that Russia is back to developing anti-satellite weapons, a programme thought to have been abandoned in 1980s.
-
-b) Motive Suspect
-- The satellite launched alongside Kosmos 2499 - Kosmos 2496, 2497 and 2498 - were meant for military communications. But 2499 has been veering off course, including making a visit on Ocober 28 to the Briz-M rocket stage that launched it.
-- The US military initially thought the strange space object was "just debirs". The craft has also kept changing its orbit in ways that are far from normal for even spy satellites that usually do anything they can to conserve their finite fuel.
-
-c) Is it a satellite killer ?
-- It's the odd orbit manoeuvres that caught the attention  of space watchers. This is just the kind of moves satellite-killing spacecraft, or ASAT as they called, make. Their purpose is to knock out other satellites, by either crashing into them at high speed or manoeuvring up close to them and then destroying them with high kinetic-energy projectiles(pellets driven by compressed gas or shrapnel driven by explosive charges, or maybe just conventional bullets shot from a specially adapted gun).
-- But technology such as this one need not always be hostile - it could also help service, fuelling or repair.
-
-d) Cold politics
-- In 1960s, the Soviet Union had an active ASAT programme, but this was abandoned as the Cold War came to an end. "However in 2010, with relations between the West and Russian space commander Oleg Ostapenko revealed that such weapons were being studied again".
-- News of Kosmos 2499 comes as Russian relations with the West are at a new low. "Well, the fact that the Russians did not declare it as part of the payload clearly suggests that they wished to conceal its presence. It is highly unlikely they omitted mentions of it by  accident in order to avoid political fallout," says Steve Denton on Quora.
-
-e) They did it too
-- Recently, both the US and China carried out test similar to that carried out by Russia. On July 28, the US Air Force launched an experimental satellite called ANGELS to manoeuvre around the upper stage of the Delta 4 rocket that has launched it into orbit.
-- The Chinese Shijan 15 satellite, launched on July 19, 2013, has repeatedly shadowed Shijan 7, and older Chinese satellite.
-- In 2007, China tested a ground-to-air missile to destroy a defunct weather satellite. The shot caused international opprobrium and the resulting shower of 30,000 pieces of debris is still troubling spacecraft.
- - The International Space Stations needs to change orbit regularly to avoid it. The US air force X-37B space plane, which spends many months om mystery mission, may have the ability to inspect, if not destroy satellites. 
