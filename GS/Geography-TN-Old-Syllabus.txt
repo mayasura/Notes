@@ -17,7 +17,9 @@ brightness of the Sun’s light. Hence we do not see the stars during the day.
 
 6) The galaxy that the solar system belongs to is known as the Milky Way. The number of stars differs from galaxy to galaxy. Likewise, the shape of the galaxies vary as well. The Milky Way galaxy has a spiral shape. In the outer ring are the Sun and the eight planets. The light of the stars in the Milky Way appears like a giant white ribbon and hence it is known as Milky Way.
 
-7) Without the help of the telescope, i.e., with your naked eye, you will be able to see the five planets namely Mercury, Venus, Mars, Jupiter and Saturn.
+7) Without the help of the telescope, i.e., with your naked eye, you will be able to see the five planets namely Mercury, Venus, Mars, Jupiter and Saturn. On the other hand, Neptune and Uranus can be seen only through a telescope. Mars, Jupiter and Saturn are visible with naked eye during the night either in the east or overhead or in the west
+
+8) Solar family consists of the Sun, its eight planets, the satellites like the moon that revolve around the plants, dwarf planets, thousands of asteroids, meteoroids and comets. This is called the solar system.
 
 
 ## Chapter 2: The Sun ##
@@ -65,7 +67,7 @@ asteroid is named as Meteor or “Shooting Star”.
 7) Jupiter: Jupiter is positioned fifth from the Sun. It is very cold because of its distance from the Sun. Though it is the biggest planet of the solar family, it is only one tenth of the size of the Sun. It has almost perpendicular axis. It rotates on its axis with an inclination of about only 2 degree and hence the planet does not have any season like the Earth.
 
 8) Saturn: Saturn is positioned sixth from the Sun. It ranks second in size next to Jupiter. There are seven rings around this planet. This
-planet, with its 7 multi-coloured rings, appears very elegant. Cyclonic winds of 1500 km/hour blow on this planet.
+planet, with its 7 multi-coloured rings, appears very elegant. Cyclonic winds of 1500 km/hour blow on this planet. The rings of Saturn are visible through a telescope. These rings consist of small stones, dust and ice particles. Though only the rings of the Saturn magnificent, Jupiter, Uranus and Neptune also have rings.
 
 9) Uranus: Uranus is positioned seventh from the Sun. Its axis is tilted about 98 0 to the vertical plane. It rolls on its sides while revolving
 around the Sun but it does not spin as a top like other planets.
@@ -96,6 +98,23 @@ Pluto 		6.4 days				248 Years
 14) Among the planets of the solar family, except for Mercury and Venus the rest have satellites of their own.
 
 15) Jupiter is the swiftest rotating planet and the slowest is Venus. Mercury is the swiftest revolving planet while the slowest is Neptune.
+
+16) Dwarf planets: Pluto, Charon, Ceres, Eris were newly grouped as 'Dwarf Planets' in the year 2006. They also revolve around the Sun. They are very small in size. Their size is smaller than that of our moon. Hence they are called dwarf planets.
+
+17)
+
+=================================
+Planet		Number of satellites
+=================================
+Mercury		0
+Venus		0
+Earth		1
+Mars		2
+Jupiter		63
+Saturn		60
+Uranus		27
+Neptune		13
+=================================
 
 
 ## Chapter 4: The Moon ##
