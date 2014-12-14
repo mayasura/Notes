@@ -17,6 +17,8 @@ brightness of the Sun’s light. Hence we do not see the stars during the day.
 
 6) The galaxy that the solar system belongs to is known as the Milky Way. The number of stars differs from galaxy to galaxy. Likewise, the shape of the galaxies vary as well. The Milky Way galaxy has a spiral shape. In the outer ring are the Sun and the eight planets. The light of the stars in the Milky Way appears like a giant white ribbon and hence it is known as Milky Way.
 
+7) Without the help of the telescope, i.e., with your naked eye, you will be able to see the five planets namely Mercury, Venus, Mars, Jupiter and Saturn.
+
 
 ## Chapter 2: The Sun ##
 0) Important words: innumerable = countless; Spectacular = amazing or worthy of special notice.
@@ -103,7 +105,7 @@ Pluto 		6.4 days				248 Years
 
 2) Like Earth, its satellite the Moon also rotates on its own axis. It takes 27.3 days to complete one rotation and also the same 27.3 days to complete one revolution around the earth. Thus the Moon rotates at exactly the same speed as that of revolution around the earth, which means that the same portion of the Moon is always seen from Earth. The Russians first showed us the other side of the Moon. In October 1959, their Luna 3 spacecraft sent pictures of the unknown backside of the Moon to Earth.
 
-3) There are many interesting features such as mountains; plateaus and very broad low craters that are seen on the surface of the Moon. A peak (10,660m.) higher than Everest (8848m.) is found on the surface of the Moon. Huge craters are present in the Moon. Even Sun’s light cannot penetrate through the walls, of such craters. The Moon has no atmosphere like the atmosphere that envelops the earth. Hence, temperature of about 100 0 Celsius during the day and temperature of about -173 0 Celsius at night prevail on the Moon.
+3) There are many interesting features such as mountains; plateaus and very broad low craters that are seen on the surface of the Moon. A peak (10,660m.) higher than Everest (8848m.) is found on the surface of the Moon. Huge craters are present in the Moon. Even Sun’s light cannot penetrate through the walls, of such craters. The Moon has no atmosphere like the atmosphere that envelops the earth. Hence, temperature of about 100 degree Celsius during the day and temperature of about -173 degree Celsius at night prevail on the Moon.
 
 4) The Moon does not produce its own light like the earth and other members of the solar family. But it looks bright because it reflects light from the Sun. The Moon light is so comfortable to us, and does not scorch us like Sun, Why ? The amount of light reflected depends on the nature of the surface of the reflector. For example, when light falls on the surface of a mirror, it reflects completely and hence it looks very bright. But a rough surface like an iron plate, reflects less light and looks dull. The surface of the Moon is very rugged and therefore reflects less light from the Sun . What we appreciate in the night sky as Moon light is nothing but the reflected light of the Sun.
 
@@ -115,7 +117,7 @@ Pluto 		6.4 days				248 Years
 
 8) Waxing: After New Moon day the Moon grows and appears like a crescent in the sky. This crescent continues to grow larger, approaching first quarter. As it grows further and appears larger than a quarter it is called gibbous. Gibbous grows into a Full Moon. The Moon shines brightly in the sky on Full Moon day. When the Moon is getting bigger every day (New to Full) it is waxing.
 
-9) Waning: After Full Moon day, the Moon begins to shrink, becoming first a gibbous. The gibbous further shrinks, approaching second quarter. As it shrinks further and appears less than a quarter, it is a crescent Moon. It continues to shrink until it becomes invisible at New Moon day. When the Moon is getting smaller (Full to New) it is waning. It takes 291⁄2 days for the Moon to go through all its phases starting from Full Moon to New Moon .
+9) Waning: After Full Moon day, the Moon begins to shrink, becoming first a gibbous. The gibbous further shrinks, approaching second quarter. As it shrinks further and appears less than a quarter, it is a crescent Moon. It continues to shrink until it becomes invisible at New Moon day. When the Moon is getting smaller (Full to New) it is waning. It takes 29 1⁄2 days for the Moon to go through all its phases starting from Full Moon to New Moon .
 
 10) The Eclipse: Sun is the only source of light for both the Earth and Moon. Eclipses occur when the light thus received is either blocked by the earth or by the Moon. When the Earth and Moon facing the Sun directly have their shadow falling in the space. Eclipses occur when either the Earth moves behind the Moon’s shadow or the Moon moves behind the Earth’s shadow.
 
@@ -140,8 +142,6 @@ The Earth moves through the Moon’s shadow zone when the Moon is directly oppos
 
 
 ## Chapter 5: Latitudes and Longitudes ##
-0) Important words: 
-
 1) The earth is very big in its size. The total surface area of the earth is about 510 million square kilometre. This total surface is covered by land and water. The continents constitute the land surface and oceans constitute the water surface.
 
 2) You are writing a letter to your friend. If you want that letter to reach your friend what do you do ? You write his/her address on that envelope. Such an address alone helps the postman to locate your friend on the surface of the earth. Similarly we need addresses for locating the places on the earth. Hence geographers have designed imaginary lines as addresses to locate the places on the earth. Such lines are called the latitudes and the longitudes.
@@ -159,4 +159,77 @@ is the 90 degree S. latitude.
 
 8) India's longitudinal extension: The state of Gujarat is the western limit of our country. The 68 degree E longitude runs along the border of Gujarat. The eastern limit of our country is Arunachal Pradesh. The 97 degree E longitude runs along the border of Arunachal Pradesh. Hence, the longitudinal extension of India is from 68 degree E. Longitude to 97 0 E. Longitude.
 
-9) 
+
+## Chapter 6: Rotation and Revolution ##
+1) All the planets in the solar system have three motions. They are rotating on their respective axis. They are revolving around the Sun. Along with the Sun planets are revolving around the Milky Way Galaxy.
+
+2) When the top rotates, the nail acts as its axis, which is perpendicular to the ground. But the axis of the earth is not perpendicular. It is inclined 23 1⁄2 degree to the vertical. In such inclined position on its axis the earth takes 24 hours to complete one rotation.
+
+3) The circumference of the earth along its equator is 40,067 km. The earth takes 24 hours to complete one rotation. Therefore its rotational speed is about 1670 km. per hour, at the equator.
+
+4) We all know that the Sun rises in the east and sets in the west. Similarly moon and stars also rise in the east and set in the west. All these happen due to the rotation of the earth from west to east. Let us understand this with an example. While travelling in a train you would have observed that the tree, lamp post, houses appear to move in the direction opposite to your own direction of travel. Whereas the train in  which we travel appears to be stationary. Similarly the Sun rises in the east and sets in the west because the earth rotates from west to east. It appears to us that the earth is stationary.
+
+5) The earth revolves around the Sun while rotating on its 23 1⁄2 inclined axis. This inclination remains same through out its revolving period of one year. This inclination produces seasons over the surface of the earth. Let us learn this clearly from the figure. The South Pole is inclined towards the Sun in the figure. In such occasions the amount of Sunlight falling in the Southern Hemisphere is considerably high. Hence the earth surface in the Southern Hemisphere receives large amount of light energy from the Sun. At the same time, the North Pole is inclined away from the Sun and thus receives lesser amount of light energy from the Sun. When the North Pole is inclined towards the Sun the Northern Hemisphere receives high energy from the Sun. At the same time, the South Pole is inclined away receives lesser energy from the Sun. Thus the quantum of light energy received by both the Hemispheres of the earth varies with their positions. The seasons are produced on the earth due to its rotation along the inclined axis of the earth while revolving around the Sun. Based on the prevailing temperature of the surface of the earth, a year is classified into four seasons. They are: summer, autumn, winter and spring.
+
+6) Summer: On the 21 st of June, the Sun is overhead at the Tropic of Cancer in the Northern Hemisphere. The rays of the Sun fall vertically on the tropic of cancer. Every place in the Northern Hemisphere receives sunlight for more than twelve hours. The Northern hemisphere experiences long days and short nights. This part of the year is hot. So it is called summer season. The Northern Hemisphere experiences the summer season for three months namely June, July and August. During these three months the South Pole is inclined away from the Sun and hence experiences the winter season.
+
+7) Autumn: The Sun appears to move towards the south as the earth continues to revolve around the Sun. On the 23 rd of September, the Sun is overhead at the equator. The rays of the Sun fall vertically on the equator. Both the north and the south poles are equidistant from the Sun. At this juncture both the hemispheres are facing the Sun equally and so days and nights are equal. The autumn season prevails in the Northern Hemisphere for three months namely September, October and November. At the same time the South Pole experiences spring.
+
+8) Winter: The earth continues to revolve around the Sun. On the 22 nd of December, the Sun is in the Southern Hemisphere and overhead at Tropic of Capricorn. The rays fall vertically on the Tropic of Capricorn. Every place in the Southern Hemisphere receives Sunlight for more than twelve hours. At the same time the North Pole is inclined away from the Sun and North Pole is in total darkness. Other places in the Northern Hemisphere experiences long nights and short days. This time of the year is called winter season in the Northern Hemisphere. The Northern Hemisphere experiences the winter for three months namely December, January, and February. At the same time the South Pole experiences summer. During winter season the birds migrate towards south from the North Polar region. These birds come to the sanctuaries situated at Vedanthangal and Vedaranyam in Tamilnadu.
+
+9) Spring: It appears that the Sun migrates towards north as the earth continues to revolve around the Sun. On the 21 st of March the Sun is overhead at the equator. The rays fall vertically on the equator. Both the North and South Poles are equidistant from the Sun. At this juncture both the hemispheres are facing the Sun and so days and nights are equal. During this period of three months namely March, April and May spring season prevails in the Northern Hemisphere. At the same time the South Pole experiences autumn.
+
+10) It is assumed in India that the Sun migrates towards north from the Tropic of Capricorn on 14 th –15 th January. This day is celebrated as “Pongal” in Tamil Nadu and as “Mahara Sankaranthi” in other states. Similarly it is assumed that the Sun migrates towards south from the Tropic of Cancer on 2 nd –3 rd August. This is celebrated as “Adiperukku” in Tamil Nadu.
+
+11) The earth’s axis makes an angle of 661⁄2 degree with its orbital plane. This inclination remains same throughout its revolving period of one year.
+
+12) On the 21 st of March and the 23 rd of September twice in a year vertical rays of the Sun fall on the equator. The vertical rays fall on the 21 st of June at the Tropic of Cancer (23 1⁄2 degree N.) and on the 22 nd of December at the Tropic of Capricorn (23 1⁄2 degree S.).
+
+
+## Chapter 7: Heat Zones and Time Zones ##
+1) The earth is the only living planet in the entire solar system. This is possible because of the favourable temperature conditions prevailing over the surface of the earth. The earth receives its heat energy from the Sun. Prevailing temperature of a place on the surface of the earth depends on the amount of heat energy received from the Sun. The heat energy thus received is not uniformly distributed over the surface of the earth. Some places are very hot and some other places are very cold. The differences in the distribution of temperatures are mainly due to the variation in the angle of incidence of Sun’s rays on the earth and the shape of the earth.
+
+2) The amount of heat received by the surface of the earth depends on the angle at which the rays of the Sun fall on that surface. As shown in the figure the vertical rays heat a small surface whereas the inclined rays heat relatively a larger surface. We all know that at noon the temperature is very high and it is very hot. This is primarily because the Sun’s rays fall vertically on the earth. When we go for a walk in the morning or evening, we feel the temperature is very mild. It is because the Sun’s rays falling on the earth at an inclined angle. We could appreciate this angle of the Sun’s rays through observing our own shadow when we stand in the Sunlight.
+
+3) The location of the earth in the solar system itself is very special. Another special feature about the earth is its shape. There were varying ideas, among the people about the shape of the earth. But the scientific development for the past five centuries revealed the truth that the earth has a spherical shape. The development of satellite technology helped us to obtain information about the earth from spacecrafts. The photographs of the earth taken from the spacecrafts provide the final proof for the fact that the earth is spherical. There is no arithmetic shape similar to that of the shape of the earth. Even on the surface of the earth one could not see any feature similar to the shape of the earth. Hence it is good to describe the shape of the earth as a “Geoid” (Earth like).
+
+4) The Sun’s rays do not fall on the spherical earth at the same angle. The rays of the Sun fall directly on those parts that are vertically below the Sun. The angle of the Sun’s rays increases falling on either side of those parts that are vertically below the Sun. The vertical rays of the Sun heat only a smaller area on the earth and thus the heat energy received by that area is also very high. But the same amount of Sun’s rays when falling at an angle on the surface of the earth has to heat relatively a larger area. The heat energy is distributed over a larger area. So, the heat energy received by that surface is also relatively very low. The surface of the earth is divided into different heat zones based on the difference in heat energy received in different places.
+
+5) The Torrid Zone: The earth surface lying in between the Tropic of Cancer (23 1⁄2 degree N) and Tropic of Capricorn (23 1⁄2 degree S) is called “Torrid Zone”. The Sun’s rays fall vertically over this surface almost throughout the year. Therefore very high temperature prevails during summer and mild temperature during winter.
+
+6) The Temperate Zone: The earth surface lying between 231⁄2 degree N and 661⁄2 degree N latitudes in the Northern Hemisphere and 23 1⁄2 degree S and 66 1⁄2 0 S latitudes in the Southern Hemisphere is called “Temperate Zones.” The Sun’s rays fall at an inclined angle Heat Zones over this surface throughout the year. Therefore mild temperature prevails in this zone throughout the year.
+
+7) The Frigid Zone: The earth surface lying in between the Temperate Zone (66 1⁄2 degree N.) and North Pole (90 degree N.) in the northern hemisphere, and the temperate zone (66 1⁄2 degree S.) and the South Pole (90 degree S.) in the southern hemisphere is called “Frigid Zone”. The Sun’s rays are falling very oblique throughout the year. Therefore very low temperature prevails throughout the year.
+
+8) The earth takes as much as 24 hours to complete one rotation on its axis. The 360 longitudes on the globe also take as much as 24 hours to complete one rotation (24 x 60 =1440 minutes). Then what is the time taken to cross one longitude ? Four minutes (1440 m / 360 degree long. = 4 m.) is needed to cross one longitude (1 degree ) on the globe. (m = minutes)
+
+9) We have learnt in the previous lesson that our country extends from 68 degree E to 97 degree E. Longitudes. There are nearly 29 longitudes running across our country. The time taken to cross one longitude is four minutes and therefore 116 minutes or 1 h. 56 m. is needed to cross all the 29 longitudes.
+
+10) Indian standard time: The central meridian that runs across a country is the basis for calculating the standard time of that country. Which is the central meridian of India? The 82 degree 30’ is the central meridian of India. When the Sun is directly on this longitude, the time in India is 12 Noon. This time is assumed as the standard time of India. Similarly in the world every nation has adopted a central meridian and follows the time on that basis. Big countries adopt more than one standard time. India extends from 68 degree E longitude to 97 degree E longitude. Therefore 82 degree 30’ Longitude is taken as the central meridian in India. (68 degree E longitude + 97 degree E longitude = 165/2 = 82 degree 30’E. longitude)
+
+11) Word Standard Time: There are 360 longitudes drawn on the Globe. The central meridian is the Greenwich Meridian (0 0 long.). When the Sun shines directly on this longitude it is taken as 12 Noon and it is considered as World Standard Time.
+
+12) Japanese who live in the borders of eastern hemisphere see the Sunrise first in the world. Therefore Japan is called as the Land of Rising Sun.
+
+13) Based on the longitudes the world surface is divided into 24 time zones. Big countries like Russia and USA have more than one time zone.
+
+
+## Chapter 8: Corals ##
+1) We have learnt that the earth is classified into Lithosphere, Hydrosphere and Atmosphere. The land, water and air are basic needs of the living organisms. These three interact with each other on the surface of the earth. This facilitated the origin of life and still helps them in their proliferation. Hence our earth is also referred as “Bio sphere”.
+
+2) The first life originated only from the sea. The oxygen released by seaweed like the algae became the basis for the earth’s atmosphere. There are various invaluable resources in the bottom of the ocean. Coral is one such resource. People wear pearls and corals as ornaments. How and where they originate? The sea organisms produce them. Oysters produce the pearls and polyps produce the corals. Apart from these there are innumerable wealth hidden at the bottom of the sea.
+
+3) The corals are the largest ecosystem of the earth. The corals are produced by the interaction between the plants and animals in the sea. The coral polyps and the algae cling to each other for staying alive. A type of algae called Zoozanthale supplies 98% of nutrients to the coral polyps. The coral polyps provide the algae with carbon dioxide and also safe and protected home. There is a variety of plant and animal species that depend on these two. In particular, fish depend on the coral reefs as their hunting ground. Jellyfish and sea anemones inhabit the coral reefs. The coral reef is the largest eco-system on the earth. The coral polyps and the algae depend on each other for their survival. The other sea organisms depend on these two for their survival on the earth. Therefore there exists a food chain within the coral eco-system.
+ 
+4) A coral polyp is a spineless animal. Coral polyps range from the size of a pinhead to a foot in diameter. They are cousins of jellyfish and anemones. When thousands of these are grouped together, they are referred to as “Coral Colonies”. A polyp has a sac-like body and an opening or mouth encircled by stinging tentacles. The polyp uses calcium carbonate from seawater to build itself a hard, cup-shaped skeleton. They stay inside their skeletons during the night and polyps extend their tentacles out to feed at nights. The skeletons of the corals are very rich in calcium carbonate. When polyps die, their skeletons pile up one upon another and get consolidated into rocks. In course of time these rocks develop into coral reefs and get exposed from the floor of the shallow sea. There are many such coral reefs in the sea formed by layers of skeletons of dead coral polyps for generations. The Great Barrier Reef stretch along the eastern coast of Australia is a good example. This place is very rich in resources and attracts tourists in large numbers. Many corals are white and they get their beautiful colour from the zooxanthellae that reside inside them. Some corals are red in colour. Commercially these red corals are very valuable.
+
+5) Coral reefs grow best in waters with a temperature of between 21 and 29 degrees Celsius. Corals prefer clear and shallow waters, where lots of Sunlight filters through water for their symbiotic algae. The corals do not grow in muddy as well as fresh water. Coral reefs are found in over 100 countries. Most reefs are located in places such as the Pacific Ocean, the Indian Ocean, the Caribbean, the Red Sea and the Arabian Gulf. Corals are also found in Florida and southern Japan. The coral reefs found along the Anadaman Nicobar Inlands are exotic and they attract large number of tourists. Foreign tourists go to Andaman Nicobar Islands mainly to have a close look at these exotic corals and the innumerable organisms that inhabit them.
+
+6) You all know the negative impact of stagnant water near your house.
+	a) First we become sick and our general health gets affected slowly.
+	b) Similarly when the land is polluted, the entire ecology of the respective region is disturbed.
+	c) The rainwater and the drainage channels carry the pollutants in to the sea.
+	d) In particular, sewerage and chemical pollutants contaminate the seawater.
+	e) This in turn destroys the living organisms of the sea.
+	f) Remember sea is the biggest food granary for humankind.
+	g) Just think of the impact of such pollution on the Coral reefs, the world’s biggest eco-system.
